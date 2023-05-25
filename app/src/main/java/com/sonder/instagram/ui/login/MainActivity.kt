@@ -1,7 +1,8 @@
-package com.sonder.instagram
+package com.sonder.instagram.ui.login
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.sonder.instagram.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
